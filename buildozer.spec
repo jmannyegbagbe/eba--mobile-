@@ -15,3 +15,5 @@ android.arch = armeabi-v7a, arm64-v8a
 android.minapi = 21
 android.api = 33
 orientation = portrait
+android.accept_sdk_license = True
+
